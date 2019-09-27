@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<meta chareset="utf-8">
+<tiele>
+我的个人网站--首页
+</title>
+</head>
+<body>
+我的个人网站--首页内容
+</body>
+</html>
